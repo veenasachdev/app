@@ -1,5 +1,5 @@
 #Contributing to the CouchCommerce app or the sdk
-
+#An amazing project
 We'd love for you to contribute to our source code and to make the app or the sdk even better than it is
 today! Here are the guidelines we'd like you to follow:
 
